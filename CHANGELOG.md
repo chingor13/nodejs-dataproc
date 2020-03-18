@@ -4,6 +4,23 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/dataproc?activeTab=versions
 
+## [2.0.0](https://www.github.com/googleapis/nodejs-dataproc/compare/v1.6.0...v2.0.0) (2020-03-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* convert dataproc to typescript (#310)
+
+### Features
+
+* convert dataproc to typescript ([#310](https://www.github.com/googleapis/nodejs-dataproc/issues/310)) ([2c1841e](https://www.github.com/googleapis/nodejs-dataproc/commit/2c1841ec1b93c83ffd033de0dea0910dceab4488))
+* deferred client initialization ([#323](https://www.github.com/googleapis/nodejs-dataproc/issues/323)) ([3fb48d3](https://www.github.com/googleapis/nodejs-dataproc/commit/3fb48d37715cdcfc16c09ff54bd5326b56ab40ab))
+
+
+### Bug Fixes
+
+* dataproc v1 AutoscalingPolicy annotation ([943585d](https://www.github.com/googleapis/nodejs-dataproc/commit/943585d1d5fd9d1126dc2af7e9f7b769ef57fb38)), closes [#306](https://www.github.com/googleapis/nodejs-dataproc/issues/306) [#303](https://www.github.com/googleapis/nodejs-dataproc/issues/303) [#305](https://www.github.com/googleapis/nodejs-dataproc/issues/305)
+
 ## [1.6.0](https://www.github.com/googleapis/nodejs-dataproc/compare/v1.5.0...v1.6.0) (2020-02-10)
 
 
